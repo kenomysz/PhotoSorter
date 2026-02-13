@@ -1,14 +1,3 @@
----
-title: "README"
-author: "kenomysz"
-date: "13.02.2026"
-lang: pl
-geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
-fontsize: 11pt
-header-includes:
-  - \usepackage{fvextra}
-  - \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
----
 
 # **PhotoSorter**
 
