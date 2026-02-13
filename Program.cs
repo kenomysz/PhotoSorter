@@ -2,8 +2,8 @@
 {
     class Program
     {
-        static string SourceFolder = @"Inbox/";
-        static string OutputFolder = @"Sorted/";
+        static string SourceFolder = @"Source/";
+        static string OutputFolder = @"Out/"
 
         static async Task Main(string[] args)
         {
